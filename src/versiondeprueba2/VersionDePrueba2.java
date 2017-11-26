@@ -17,6 +17,7 @@ public class VersionDePrueba2 {
     public static void main(String[] args) {
         
         System.out.println("Versión del P");
+        System.out.println("Esta es la segunda versión de P");
         
     }
 
